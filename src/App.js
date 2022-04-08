@@ -24,7 +24,7 @@ export default function App() {
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div>
 
-    JOE IS KING forever
+    JOE IS KING forever and now too
 
       <div className="grid grid-cols-2 grid-rows-2 gap-4">
         <Button
